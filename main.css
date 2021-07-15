@@ -1,14 +1,14 @@
 <style>
   link {
-    color: #0099FF;
+    color: #9988D5;
   }
   a, a:link, a:visited {
     color: #0099FF;
     text-decoration: none;
   }
   a:hover {
-    color: #FF9933;
-    background-color: #0099FF;
+    color: ##6947DC;
+    background-color: #FFFFFF;
   }
   body {
     font-family: 'Quicksand', sans-serif;
