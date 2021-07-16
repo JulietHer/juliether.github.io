@@ -17,6 +17,11 @@
     vertical-align: bottom;
     color: #505050;
   }
+  .center {
+    margin: auto;
+    width: 65%;
+    padding: 10px;
+  }
   hr{
     padding: 0px;
     margin: 0px;    
